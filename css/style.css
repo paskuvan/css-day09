@@ -1,0 +1,161 @@
+<<<<<<< HEAD
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+.font-regular {
+    font-weight: 300;
+}
+
+.text-white {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    width: 135px;
+    height: auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding-right: 2.5rem;
+}
+
+.btn-outline-success {
+    border-radius: 25px !important;
+    border-color: white !important;
+    border: 2px solid white;
+    padding: 5px 20px;
+}
+
+.btn-outline-success:hover {
+    background-color: #0f0f91 !important;
+}
+
+.btn-primary {
+    border-radius: 25px !important;
+    border: 2px solid#0f0f91;
+    padding: 5px 20px;
+    background-color: #0f0f91;
+    border-color: #0f0f91;
+}
+
+.btn-primary:hover {
+    background-color: #2e2ed6;
+    border-color: #2e2ed6;
+}
+
+.img-header {
+    width: 100%;
+    position: relative;
+    left: 10em;
+}
+
+.title {
+    font-size: 39px;
+}
+
+.subtitle {
+    font-size: 18px;
+    text-align: justify;
+}
+
+@media (max-width: 768px) {
+    .btn-header {
+        margin: 5px 0;
+    }
+
+    .img-header {
+        display: none;
+    }
+
+
+}
+
+=======
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+.font-regular {
+    font-weight: 300;
+}
+
+.text-white {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    width: 135px;
+    height: auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding-right: 2.5rem;
+}
+
+.btn-outline-success {
+    border-radius: 25px !important;
+    border-color: white !important;
+    border: 2px solid white;
+    padding: 5px 20px;
+}
+
+.btn-outline-success:hover {
+    background-color: #0f0f91 !important;
+}
+
+.btn-primary {
+    border-radius: 25px !important;
+    border: 2px solid#0f0f91;
+    padding: 5px 20px;
+    background-color: #0f0f91;
+    border-color: #0f0f91;
+}
+
+.btn-primary:hover {
+    background-color: #2e2ed6;
+    border-color: #2e2ed6;
+}
+
+.img-header {
+    width: 100%;
+    position: relative;
+    left: 10em;
+}
+
+.title {
+    font-size: 39px;
+}
+
+.subtitle {
+    font-size: 18px;
+    text-align: justify;
+}
+
+@media (max-width: 768px) {
+    .btn-header {
+        margin: 5px 0;
+    }
+
+    .img-header {
+        display: none;
+    }
+
+
+}
+
+>>>>>>> 4c86f22c4be9c674883d640b6df3db1aef15a22a
